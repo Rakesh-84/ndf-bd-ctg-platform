@@ -180,4 +180,4 @@ npm run build
 
 ---
 
-*Built by [Rakesh Das](https://github.com/Rakesh-84) — freelance React developer, Chittagong, Bangladesh.*
+*Built by [(Rex) Rakesh Das](https://github.com/Rakesh-84) — freelance React developer, Chittagong, Bangladesh.*
