@@ -1,5 +1,5 @@
 
-**National Debate Federation Bangladesh, Chittagong Chapter**
+## **National Debate Federation Bangladesh, Chittagong Chapter**
 Full-stack community platform for a debate org — React, Supabase, Hono on Cloudflare Workers, PWA. 3-session security audit. 30+ pages, 9 DB tables. — built from scratch as a freelance portfolio project over 15 development sessions.
 > ⚠️ Source code is private (client project). 
 > This README documents the architecture, stack, and build process.
