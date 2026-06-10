@@ -1,10 +1,8 @@
-# NDF-BD-ctg-platform
-Full-stack community platform for a debate org — React, Supabase, Hono on Cloudflare Workers, PWA. 3-session security audit. 30+ pages, 9 DB tables.
-# NDF BD Chattogram — Community Platform
 
 **National Debate Federation Bangladesh, Chittagong Chapter**
-A full-stack community platform for a local debate organization — built from scratch as a freelance portfolio project over 15 development sessions.
-
+Full-stack community platform for a debate org — React, Supabase, Hono on Cloudflare Workers, PWA. 3-session security audit. 30+ pages, 9 DB tables. — built from scratch as a freelance portfolio project over 15 development sessions.
+> ⚠️ Source code is private (client project). 
+> This README documents the architecture, stack, and build process.
 🌐 **Live:** [ndfbdctg.org](https://ndfbdctg.org) &nbsp;|&nbsp; 📱 **PWA installable on Android & iOS**
 
 ---
